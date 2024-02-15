@@ -5,6 +5,12 @@ import socket
 
 import matplotlib.pyplot as plt
 
+"""
+This script starts a server that listens for temperature data from a client.
+The temperature data is received as a JSON string and saved to a CSV file.
+The temperature data is also plotted in real-time using Matplotlib.
+"""
+
 HOST = "10.200.195.244"  # Listen on this interface
 PORT = 12345  # Arbitrary port number
 

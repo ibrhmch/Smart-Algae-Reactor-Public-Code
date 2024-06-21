@@ -1,1 +1,3 @@
-In this repo we track the codebase and scripts used to manipulate and control the raspberry pi pico w for purposes such as collecting and transmitting sensor data over a wireless connection.
+### Smart Algae Reactor
+
+This repository contains code that controls and operates the Algae Reactor, the water pumps, sensors, actuators and power supply for the whole system. This repository does not contain the complete source code. The code available was made public after being approved by the project sponsors.
